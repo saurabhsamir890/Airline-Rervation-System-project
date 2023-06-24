@@ -1,3 +1,3 @@
 # Airline-Rervation-System-project.
-<br/> hello hi 
-<br/> ram
+<br/>The "Airline Reservation System" is a Windows-based application developed using Java Swing, Java NetBeans IDE, and MySQL Workbench. It is designed to facilitate the reservation and management of airline flights for both passengers and administrators.
+<br/>The primary purpose of the application is to provide a user-friendly interface for passengers to search for available flights, book tickets, and manage their reservations. It allows users to enter their travel details such as arrival and departure details, date of travel, and passport number. Based on these inputs, the system queries the database to retrieve relevant flight information, including flight schedules, seat availability, and fares.
